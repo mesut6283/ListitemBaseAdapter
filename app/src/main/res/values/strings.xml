@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ListitemBaseAdapter</string>
+    <string-array name="title">
+        <item>demo1</item>
+        <item>demo2</item>
+        <item>demo3</item>
+        <item>demo4</item>
+        <item>demo5</item>
+        <item>demo6</item>
+        <item>demo7</item>
+        <item>demo8</item>
+        <item>demo9</item>
+        <item>demo10</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>This is demo description1</item>
+        <item>This is demo description2</item>
+        <item>This is demo description3</item>
+        <item>This is demo description4</item>
+        <item>This is demo description5</item>
+        <item>This is demo description6</item>
+        <item>This is demo description7</item>
+        <item>This is demo description8</item>
+        <item>This is demo description9</item>
+        <item>This is demo description10</item>
+    </string-array>
+</resources>
